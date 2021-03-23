@@ -1,4 +1,4 @@
-package newpackge.newpackage.newpackge.newpackage.newpackge.newpackage.newpackge.newpackage.newpackge.newpackage.onetwothree;
+package newpackge.newpackage.newpackge.newpackage.newpackge.newpackage.newpackge.newpackage.newpackge.newpackage.onetwothree.newnew;
 
 import org.junit.jupiter.api.Test;
 
